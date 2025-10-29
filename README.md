@@ -1,1 +1,1 @@
-# hello i am beginner to learn git and github
+hi currently i am intern in up2skill
